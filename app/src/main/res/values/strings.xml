@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">felipe_rodriguez_20240415</string>
+    <string name="input_sport">Ingrese el deporte</string>
+    <string name="input_time">Tiempo en minutos</string>
+    <string name="display_info">Mostrar Información</string>
+
+</resources>

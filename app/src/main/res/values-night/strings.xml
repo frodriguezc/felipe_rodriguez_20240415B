@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="input_sport">Ingrese el deporte</string>
+    <string name="input_time">Tiempo en minutos</string>
+    <string name="display_info">Mostrar Información</string>
+</resources>
